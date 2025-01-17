@@ -54,3 +54,26 @@ MongoDB (for storing user data and food combinations)
 ## Cloud Storage: 
 
 Cloudinary (for storing images of food combinations)git remote add origin https://github.com/kalviumcommunity/S76_TasteTwist.git
+
+
+## for the endpoint branch
+
+create server .js and give code
+
+**cmd:** 
+
+## npm init -y
+
+## npm i express dotenv
+
+## npm i node
+
+**Run Command:**
+
+## node server.js
+
+**o/p:**
+
+## https:localhost:3000/ping
+
+## Pong!

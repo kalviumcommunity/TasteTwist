@@ -1,0 +1,26 @@
+{
+  "name": "s76_tastetwist-kalvium-community",
+  "version": "1.0.0",
+  "description": "TasteTwist is a fun and interactive platform where users can share and discover bizarre food combinations that surprisingly taste great. From French fries dipped in ice cream to pickles paired with peanut butter, this project allows users to contribute their unique culinary creations and vote on others. It’s a lighthearted space to explore and discuss weird food pairings with a community of food lovers.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/TasteTwist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/TasteTwist/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/TasteTwist#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "node": "^22.13.0"
+  }
+}
