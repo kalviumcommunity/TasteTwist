@@ -6,7 +6,7 @@ TasteTwist is a fun and interactive platform where users can share and discover 
 
 ## Key Features:
 
-## User Authentication: 
+## User Authentication:
 
 Users can create an account and log in to share their food combinations and vote on others.
 
