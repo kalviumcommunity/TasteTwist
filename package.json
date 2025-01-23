@@ -1,0 +1,23 @@
+{
+  "name": "tastetwist",
+  "version": "1.0.0",
+  "description": "wiered food combo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/TasteTwist.git"
+  },
+  "author": "sibi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/TasteTwist/issues"
+  },
+  "homepage": "https://github.com/kalviumcommunity/TasteTwist#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
